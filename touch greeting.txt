@@ -1,1 +1,2 @@
+Creat touch greeting.txt
 こんにちは
